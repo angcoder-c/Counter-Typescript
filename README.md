@@ -1,6 +1,6 @@
 # Counter-Typescript
 A simple counter with typescript.
-![20220703_212256](https://user-images.githubusercontent.com/58778570/177077672-778982ac-49d4-48d8-bd95-889bbd3c0a19.gif)
+![20220714_192316](https://user-images.githubusercontent.com/58778570/179128043-36a84e69-98a9-4d9d-92d3-80e14b66fdb9.gif)
 
 ## Requirements ⚙️
 - Any web browser
