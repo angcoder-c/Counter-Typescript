@@ -8,6 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
         // if the value is less than zero, the color will be red, else the color will be green
         if (value<0){
             counter.style.color = 'rgb(133, 8, 8)';
+        } else if (value === 0){
+            counter.style.color = 'rgb(157 116 0)';
         } else {
             counter.style.color = 'rgb(8, 133, 8)';
         }

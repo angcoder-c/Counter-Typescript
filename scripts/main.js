@@ -8,6 +8,9 @@ document.addEventListener('DOMContentLoaded', function () {
         if (value < 0) {
             counter.style.color = 'rgb(133, 8, 8)';
         }
+        else if (value === 0) {
+            counter.style.color = 'rgb(157 116 0)';
+        }
         else {
             counter.style.color = 'rgb(8, 133, 8)';
         }
