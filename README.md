@@ -7,7 +7,7 @@ A simple counter with typescript.
 
 ## Clone the repository
 ```bash
-git clone https://github.com/Angel-Gabriel-Chavez/Counter-Typescript.git
+git clone https://github.com/angcoder-c/Counter-Typescript.git
 ```
 ## Run 🏁
 Open Html file `index.html` in the browser
